@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning engineering.
 - 💞️ I’m looking to collaborate on Python, C++, ... projects.
 - 📫 How to reach me?
-   -  
+   -  Pull request maybe 👀👀
 
 <!---
 DaHamster/DaHamster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
