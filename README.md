@@ -1,3 +1,6 @@
+
+                  SLAVA UKRAINE
+
 - 👋 Hi, I’m @DaHamster
 - 👀 I’m interested in Computational Physics, Math.
 - 🌱 I’m currently learning engineering.
